@@ -1,5 +1,949 @@
 #EXTM3U
 
+#EXTINF:-1 ,Globo SP | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/3
+#EXTINF:-1 ,AMC | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/4
+#EXTINF:-1 ,TNT | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/6
+#EXTINF:-1 ,TNT Series | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/7
+#EXTINF:-1 ,HBO xTREME | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/8
+#EXTINF:-1 ,HBO POP | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/9
+#EXTINF:-1 ,Paramount | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/10
+#EXTINF:-1 ,Polishop
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/11
+#EXTINF:-1 ,Band | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/14
+#EXTINF:-1 ,Band | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/15
+#EXTINF:-1 ,Canal Brasil | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/16
+#EXTINF:-1 ,Canal Comunitario HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/17
+#EXTINF:-1 ,Canal Rural
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/18
+#EXTINF:-1 ,Canal Universitario HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/19
+#EXTINF:-1 ,Cultura | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/20
+#EXTINF:-1 ,Curta HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/21
+#EXTINF:-1 ,Globo SP | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/23
+#EXTINF:-1 ,Globo MG | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/24
+#EXTINF:-1 ,Globo Nordeste | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/25
+#EXTINF:-1 ,Globo BA | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/26
+#EXTINF:-1 ,Globo RJ | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/27
+#EXTINF:-1 ,Record TV | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/30
+#EXTINF:-1 ,Record TV | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/31
+#EXTINF:-1 ,Rede 21
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/32
+#EXTINF:-1 ,Rede TV | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/34
+#EXTINF:-1 ,Rede Vida | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/35
+#EXTINF:-1 ,SBT | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/37
+#EXTINF:-1 ,Tv Aparecida
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/38
+#EXTINF:-1 ,Tv Brasil
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/39
+#EXTINF:-1 ,TV Câmara | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/40
+#EXTINF:-1 ,TV Escola | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/41
+#EXTINF:-1 ,TV Justiça | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/42
+#EXTINF:-1 ,Tv Novo Tempo
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/43
+#EXTINF:-1 ,TV Senado | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/44
+#EXTINF:-1 ,Globo Campinas | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/45
+#EXTINF:-1 ,Band Sports | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/46
+#EXTINF:-1 ,Band Sports | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/47
+#EXTINF:-1 ,Combate | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/48
+#EXTINF:-1 ,Combate | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/49
+#EXTINF:-1 ,ESPN Extra | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/50
+#EXTINF:-1 ,ESPN | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/51
+#EXTINF:-1 ,ESPN | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/52
+#EXTINF:-1 ,ESPN Brasil | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/53
+#EXTINF:-1 ,ESPN Brasil | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/54
+#EXTINF:-1 ,FoxSports | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/55
+#EXTINF:-1 ,FoxSports | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/56
+#EXTINF:-1 ,FoxSports 2 | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/57
+#EXTINF:-1 ,FoxSports2 | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/58
+#EXTINF:-1 ,OFF | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/59
+#EXTINF:-1 ,OFF | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/60
+#EXTINF:-1 ,Premiere Clubes | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/61
+#EXTINF:-1 ,Premiere Clubes | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/62
+#EXTINF:-1 ,Premiere 2 | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/63
+#EXTINF:-1 ,Premiere 3 | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/64
+#EXTINF:-1 ,Premiere 4 | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/65
+#EXTINF:-1 ,Premiere 5 | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/66
+#EXTINF:-1 ,Premiere 7 | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/67
+#EXTINF:-1 ,Premiere 8 | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/68
+#EXTINF:-1 ,SporTV | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/69
+#EXTINF:-1 ,SporTV | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/70
+#EXTINF:-1 ,SporTV2 | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/71
+#EXTINF:-1 ,SporTV 2 | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/72
+#EXTINF:-1 ,SBT | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/73
+#EXTINF:-1 ,SporTV3 | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/74
+#EXTINF:-1 ,Rede TV | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/75
+#EXTINF:-1 ,Love Nature | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/76
+#EXTINF:-1 ,Bloomberg | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/77
+#EXTINF:-1 ,CNN International | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/78
+#EXTINF:-1 ,DW
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/79
+#EXTINF:-1 ,NHK | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/80
+#EXTINF:-1 ,Record News | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/81
+#EXTINF:-1 ,SIC International | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/82
+#EXTINF:-1 ,Tv 5 HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/83
+#EXTINF:-1 ,Tve HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/84
+#EXTINF:-1 ,Globo News | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/85
+#EXTINF:-1 ,Band News | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/86
+#EXTINF:-1 ,Beinsport 1 HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/87
+#EXTINF:-1 ,Beinsport 2 HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/88
+#EXTINF:-1 ,Beinsport 3 HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/89
+#EXTINF:-1 ,Beinsport 4 HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/90
+#EXTINF:-1 ,Beinsport 5 HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/91
+#EXTINF:-1 ,Beinsport 6 HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/92
+#EXTINF:-1 ,Beinsport 7 HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/93
+#EXTINF:-1 ,Beinsport 9 HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/95
+#EXTINF:-1 ,Beinsport 10 HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/96
+#EXTINF:-1 ,Beinsport 11 HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/97
+#EXTINF:-1 ,EuroChannel | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/98
+#EXTINF:-1 ,Animal Planet | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/99
+#EXTINF:-1 ,Animal Planet | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/100
+#EXTINF:-1 ,Discovery Home & Health | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/101
+#EXTINF:-1 ,Discovery Home & Health | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/102
+#EXTINF:-1 ,Discovery Channel | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/103
+#EXTINF:-1 ,Discovery Channel | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/104
+#EXTINF:-1 ,Discovery Theater | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/105
+#EXTINF:-1 ,Discovery Theater | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/106
+#EXTINF:-1 ,Discovery Turbo | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/107
+#EXTINF:-1 ,Discovery Turbo | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/108
+#EXTINF:-1 ,Discovery World | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/109
+#EXTINF:-1 ,Fish Tv HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/110
+#EXTINF:-1 ,Food Network FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/111
+#EXTINF:-1 ,Food Network HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/112
+#EXTINF:-1 ,FX | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/113
+#EXTINF:-1 ,FX | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/114
+#EXTINF:-1 ,History channel | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/115
+#EXTINF:-1 ,History channel | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/116
+#EXTINF:-1 ,Investigacao Discovery  | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/117
+#EXTINF:-1 ,NatGeo | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/118
+#EXTINF:-1 ,NatGeo | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/119
+#EXTINF:-1 ,NatGeoWild | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/120
+#EXTINF:-1 ,NatGeo Wild | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/121
+#EXTINF:-1 ,Discovery Science | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/122
+#EXTINF:-1 ,TLC | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/123
+#EXTINF:-1 ,HGTV HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/124
+#EXTINF:-1 ,Smithsonian | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/125
+#EXTINF:-1 ,Film & Arts | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/126
+#EXTINF:-1 ,Baby TV | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/127
+#EXTINF:-1 ,Boomerang | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/128
+#EXTINF:-1 ,Cartoon Network | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/129
+#EXTINF:-1 ,Disney Channel | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/130
+#EXTINF:-1 ,Disney Junior | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/131
+#EXTINF:-1 ,Disney XD | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/132
+#EXTINF:-1 ,Ela (2013)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10601.mp4
+#EXTINF:-1 ,Eu Danço 4 (2012)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10602.mp4
+#EXTINF:-1 ,Eu Danço 5: Tudo ou Nada (2014)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10603.mp4
+#EXTINF:-1 ,Em Busca de Liberdade (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10605.mp4
+#EXTINF:-1 ,Em Defesa de Cristo (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10606.mp4
+#EXTINF:-1 ,Em Pedaços (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10607.mp4
+#EXTINF:-1 ,Entre Realidades (2020)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10608.mp4
+#EXTINF:-1 ,Entre Irmãs (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10609.mp4
+#EXTINF:-1 ,Estrelas Além do Tempo (2016)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10610.mp4
+#EXTINF:-1 ,Estrelas de Cinema Nunca Morrem (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10611.mp4
+#EXTINF:-1 ,Eternamente Manhattan (2016)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10612.mp4
+#EXTINF:-1 ,Ethel & Ernest (2016)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10613.mp4
+#EXTINF:-1 ,Daniel Blake (2016)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10614.mp4
+#EXTINF:-1 ,Eu Acredito (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10615.mp4
+#EXTINF:-1 ,Tonya (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10616.mp4
+#EXTINF:-1 ,Eu Só Posso Imaginar (2018)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10617.mp4
+#EXTINF:-1 ,Querida! (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10618.mp4
+#EXTINF:-1 ,Extraordinário (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10619.mp4
+#EXTINF:-1 ,Fala Comigo (2016)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10620.mp4
+#EXTINF:-1 ,Fica Comigo (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10621.mp4
+#EXTINF:-1 ,Fique Rico ou Morra Tentando (2005)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10622.mp4
+#EXTINF:-1 ,Flor da Juventude (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10623.mp4
+#EXTINF:-1 ,Flores do Oriente (2011)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10624.mp4
+#EXTINF:-1 ,Fobia (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10625.mp4
+#EXTINF:-1 ,Forrest Gump - O Contador de Histórias (1994)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10627.mp4
+#EXTINF:-1 ,Frank & Lola - Amor Obsessivo (2016)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10628.mp4
+#EXTINF:-1 ,Fruitvale Station: A Última Parada (2013)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10629.mp4
+#EXTINF:-1 ,Grande Saída (2018)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10631.mp4
+#EXTINF:-1 ,High Flying Bird (2019)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10632.mp4
+#EXTINF:-1 ,Hoje Eu Quero Voltar Sozinho (2014)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10633.mp4
+#EXTINF:-1 ,Hostis (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10635.mp4
+#EXTINF:-1 ,I'm in Here (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10636.mp4
+#EXTINF:-1 ,Inseparáveis (2016)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10637.mp4
+#EXTINF:-1 ,Intimidade Entre Estranhos (2018)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10638.mp4
+#EXTINF:-1 ,Intocáveis (2011)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10639.mp4
+#EXTINF:-1 ,Invictus (2009)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10640.mp4
+#EXTINF:-1 ,Jantar com Beatriz (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10643.mp4
+#EXTINF:-1 ,Joaquim (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10644.mp4
+#EXTINF:-1 ,Jogos do Apocalipse (2013)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10645.mp4
+#EXTINF:-1 ,Johnny & June (2005)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10646.mp4
+#EXTINF:-1 ,Juventude no Oregon (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10647.mp4
+#EXTINF:-1 ,La Bamba (1987)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10648.mp4
+#EXTINF:-1 ,Lady Bird - A Hora de Voar (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10649.mp4
+#EXTINF:-1 ,Lagoa Azul: O Despertar (2012)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10650.mp4
+#EXTINF:-1 ,Lar Doce Inferno (2015)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10651.mp4
+#EXTINF:-1 ,Laranja Mecânica (1971)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10653.mp4
+#EXTINF:-1 ,Lembranças Perdidas (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10654.mp4
+#EXTINF:-1 ,Lemonade (2019)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10655.mp4
+#EXTINF:-1 ,Leste Oeste (2016)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10656.mp4
+#EXTINF:-1 ,Libertos - O Preço da Vida (2018)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10657.mp4
+#EXTINF:-1 ,Ligados pelo Amor (2012)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10658.mp4
+#EXTINF:-1 ,Looking o filme (2016)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10660.mp4
+#EXTINF:-1 ,Madame (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10663.mp4
+#EXTINF:-1 ,Magia ao Luar (2014)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10665.mp4
+#EXTINF:-1 ,Mais que Vencedores (2019)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10666.mp4
+#EXTINF:-1 ,Mais Uma Chance (2018)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10667.mp4
+#EXTINF:-1 ,Maria Madalena (2018)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10668.mp4
+#EXTINF:-1 ,Mark Felt: O Homem que Derrubou a Casa Branca (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10669.mp4
+#EXTINF:-1 ,Marshall: Igualdade e Justiça (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10670.mp4
+#EXTINF:-1 ,Mary Shelley (2018)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10671.mp4
+#EXTINF:-1 ,Me Chame Pelo Seu Nome (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10672.mp4
+#EXTINF:-1 ,Megan Leavey (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10673.mp4
+#EXTINF:-1 ,Memórias de uma Gueixa (2005)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10674.mp4
+#EXTINF:-1 ,Memórias de um Assassino (2003)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10675.mp4
+#EXTINF:-1 ,Meu Jantar com Hervé (2018)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10676.mp4
+#EXTINF:-1 ,Meu Romance Perfeito (2018)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10677.mp4
+#EXTINF:-1 ,Milada (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10678.mp4
+#EXTINF:-1 ,Minhas Adoráveis Ex-Namoradas (2009)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10679.mp4
+#EXTINF:-1 ,Mudbound - Lágrimas Sobre o Mississipi (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10680.mp4
+#EXTINF:-1 ,Nascido Para Matar (1987)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10681.mp4
+#EXTINF:-1 ,Na Mira do Atirador (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10682.mp4
+#EXTINF:-1 ,Na Batida do Amor (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10683.mp4
+#EXTINF:-1 ,Nada a Perder (2018)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10684.mp4
+#EXTINF:-1 ,Newness (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10689.mp4
+#EXTINF:-1 ,Ninfomaniaca: Volume 2 (2013)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10690.mp4
+#EXTINF:-1 ,Ninfomaniaca: Volume 1 (2013)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10691.mp4
+#EXTINF:-1 ,No Coração do Mar (2015)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10692.mp4
+#EXTINF:-1 ,No balanço do amor (2006)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10693.mp4
+#EXTINF:-1 ,No Rastro da Violência (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10694.mp4
+#EXTINF:-1 ,Nostalgia (2018)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10696.mp4
+#EXTINF:-1 ,Notorious B.I.G. - Nenhum Sonho é Grande Demais (2009)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10697.mp4
+#EXTINF:-1 ,Noviciado (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10698.mp4
+#EXTINF:-1 ,Swipe (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10699.mp4
+#EXTINF:-1 ,O Bom Vizinho (2016)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10701.mp4
+#EXTINF:-1 ,O Caçador e a Rainha do Gelo (2016)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10702.mp4
+#EXTINF:-1 ,Jesus - Segundo o Evangelho de Lucas (1979)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10704.mp4
+#EXTINF:-1 ,O Insulto (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10706.mp4
+#EXTINF:-1 ,Nessie & Me (2016)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10707.mp4
+#EXTINF:-1 ,O Matador (2017)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10708.mp4
+#EXTINF:-1 ,O Menino que Descobriu o Vento (2019)
+http://viptv2.dyndns.tv:25461/movie/A81905E6C344/A81905E6C344/10709.mp4
+#EXTINF:-1 ,Chuck S04 E02
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13242.mp4
+#EXTINF:-1 ,Chuck S04 E03
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13243.mp4
+#EXTINF:-1 ,Chuck S04 E04
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13244.mp4
+#EXTINF:-1 ,Chuck S04 E12
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13252.mp4
+#EXTINF:-1 ,Chuck S05 E01
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13265.mp4
+#EXTINF:-1 ,Chuck S05 E04
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13268.mp4
+#EXTINF:-1 ,Chuck S05 E10
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13274.mp4
+#EXTINF:-1 ,Chuck S05 E13
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13277.mp4
+#EXTINF:-1 ,Coletivo Terror S01 E01
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13278.mp4
+#EXTINF:-1 ,Coletivo Terror S01 E02
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13279.mp4
+#EXTINF:-1 ,Coletivo Terror S01 E03
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13280.mp4
+#EXTINF:-1 ,Coletivo Terror S01 E04
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13281.mp4
+#EXTINF:-1 ,Coletivo Terror S01 E05
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13282.mp4
+#EXTINF:-1 ,Coletivo Terror S01 E06
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13283.mp4
+#EXTINF:-1 ,Coroner S01 E01
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13290.mp4
+#EXTINF:-1 ,Coroner S01 E02
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13291.mp4
+#EXTINF:-1 ,Coroner S01 E03
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13292.mp4
+#EXTINF:-1 ,Coroner S01 E04
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13293.mp4
+#EXTINF:-1 ,Coroner S01 E05
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13294.mp4
+#EXTINF:-1 ,Coroner S01 E06
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13295.mp4
+#EXTINF:-1 ,Coroner S01 E07
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13296.mp4
+#EXTINF:-1 ,Coroner S01 E08
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13297.mp4
+#EXTINF:-1 ,The Good Doctor S01 E01
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13298.mp4
+#EXTINF:-1 ,The Good Doctor S01 E02
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13299.mp4
+#EXTINF:-1 ,The Good Doctor S01 E03
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13300.mp4
+#EXTINF:-1 ,The Good Doctor S01 E04
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13301.mp4
+#EXTINF:-1 ,The Good Doctor S01 E05
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13302.mp4
+#EXTINF:-1 ,The Good Doctor S01 E06
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13303.mp4
+#EXTINF:-1 ,The Good Doctor S01 E07
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13304.mp4
+#EXTINF:-1 ,The Good Doctor S01 E08
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13305.mp4
+#EXTINF:-1 ,The Good Doctor S01 E09
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13306.mp4
+#EXTINF:-1 ,The Good Doctor S01 E10
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13307.mp4
+#EXTINF:-1 ,The Good Doctor S01 E11
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13308.mp4
+#EXTINF:-1 ,The Good Doctor S01 E12
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13309.mp4
+#EXTINF:-1 ,The Good Doctor S01 E13
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13310.mp4
+#EXTINF:-1 ,The Good Doctor S01 E14
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13311.mp4
+#EXTINF:-1 ,The Good Doctor S01 E15
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13312.mp4
+#EXTINF:-1 ,The Good Doctor S01 E16
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13313.mp4
+#EXTINF:-1 ,The Good Doctor S01 E17
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13314.mp4
+#EXTINF:-1 ,The Good Doctor S01 E18
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13315.mp4
+#EXTINF:-1 ,The Good Doctor S02 E01
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13316.mp4
+#EXTINF:-1 ,The Good Doctor S02 E02
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13317.mp4
+#EXTINF:-1 ,The Good Doctor S02 E03
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13318.mp4
+#EXTINF:-1 ,The Good Doctor S02 E04
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13319.mp4
+#EXTINF:-1 ,The Good Doctor S02 E05
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13320.mp4
+#EXTINF:-1 ,The Good Doctor S02 E06
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13321.mp4
+#EXTINF:-1 ,The Good Doctor S02 E07
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13322.mp4
+#EXTINF:-1 ,The Good Doctor S02 E08
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13323.mp4
+#EXTINF:-1 ,The Good Doctor S02 E09
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13324.mp4
+#EXTINF:-1 ,The Good Doctor S02 E10
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13325.mp4
+#EXTINF:-1 ,The Good Doctor S02 E11
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13326.mp4
+#EXTINF:-1 ,The Good Doctor S02 E12
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13327.mp4
+#EXTINF:-1 ,The Good Doctor S02 E13
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13328.mp4
+#EXTINF:-1 ,The Good Doctor S02 E14
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13329.mp4
+#EXTINF:-1 ,The Good Doctor S02 E15
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13330.mp4
+#EXTINF:-1 ,The Good Doctor S02 E16
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13331.mp4
+#EXTINF:-1 ,The Good Doctor S02 E17
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13332.mp4
+#EXTINF:-1 ,The Good Doctor S02 E18
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13333.mp4
+#EXTINF:-1 ,The Good Doctor S03 E01
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13334.mp4
+#EXTINF:-1 ,The Good Doctor S03 E02
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13335.mp4
+#EXTINF:-1 ,The Good Doctor S03 E03
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13336.mp4
+#EXTINF:-1 ,The Good Doctor S03 E04
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13337.mp4
+#EXTINF:-1 ,The Good Doctor S03 E05
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13338.mp4
+#EXTINF:-1 ,The Good Doctor S03 E06
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13339.mp4
+#EXTINF:-1 ,The Good Doctor S03 E07
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/13340.mp4
+#EXTINF:-1 ,La Casa de Papel S04 E01
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16033.mp4
+#EXTINF:-1 ,La Casa de Papel S04 E02
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16034.mp4
+#EXTINF:-1 ,La Casa de Papel S04 E03
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16035.mp4
+#EXTINF:-1 ,La Casa de Papel S04 E04
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16036.mp4
+#EXTINF:-1 ,La Casa de Papel S04 E05
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16037.mp4
+#EXTINF:-1 ,La Casa de Papel S04 E06
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16038.mp4
+#EXTINF:-1 ,La Casa de Papel S04 E07
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16039.mp4
+#EXTINF:-1 ,La Casa de Papel S04 E08
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16040.mp4
+#EXTINF:-1 ,O Conto da Aia S01 E01
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16041.mp4
+#EXTINF:-1 ,O Conto da Aia S01 E02
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16042.mp4
+#EXTINF:-1 ,O Conto da Aia S01 E03
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16043.mp4
+#EXTINF:-1 ,O Conto da Aia S01 E04
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16044.mp4
+#EXTINF:-1 ,O Conto da Aia S01 E05
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16045.mp4
+#EXTINF:-1 ,O Conto da Aia S01 E06
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16046.mp4
+#EXTINF:-1 ,O Conto da Aia S01 E07
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16047.mp4
+#EXTINF:-1 ,O Conto da Aia S01 E08
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16048.mp4
+#EXTINF:-1 ,O Conto da Aia S01 E09
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16049.mp4
+#EXTINF:-1 ,O Conto da Aia S01 E10
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16050.mp4
+#EXTINF:-1 ,O Conto da Aia S02 E01
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16051.mp4
+#EXTINF:-1 ,O Conto da Aia S02 E02
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16052.mp4
+#EXTINF:-1 ,O Conto da Aia S02 E03
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16053.mp4
+#EXTINF:-1 ,O Conto da Aia S02 E04
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16054.mp4
+#EXTINF:-1 ,O Conto da Aia S02 E05
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16055.mp4
+#EXTINF:-1 ,O Conto da Aia S02 E06
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16056.mp4
+#EXTINF:-1 ,O Conto da Aia S02 E07
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16057.mp4
+#EXTINF:-1 ,O Conto da Aia S02 E08
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16058.mp4
+#EXTINF:-1 ,O Conto da Aia S02 E09
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16059.mp4
+#EXTINF:-1 ,O Conto da Aia S02 E10
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16060.mp4
+#EXTINF:-1 ,O Conto da Aia S02 E11
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16061.mp4
+#EXTINF:-1 ,O Conto da Aia S02 E12
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16062.mp4
+#EXTINF:-1 ,O Conto da Aia S02 E13
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16063.mp4
+#EXTINF:-1 ,O Conto da Aia S03 E01
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16064.mp4
+#EXTINF:-1 ,O Conto da Aia S03 E02
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16065.mp4
+#EXTINF:-1 ,O Conto da Aia S03 E03
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16066.mp4
+#EXTINF:-1 ,O Conto da Aia S03 E04
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16067.mp4
+#EXTINF:-1 ,O Conto da Aia S03 E05
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16068.mp4
+#EXTINF:-1 ,O Conto da Aia S03 E06
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16069.mp4
+#EXTINF:-1 ,O Conto da Aia S03 E07
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16070.mp4
+#EXTINF:-1 ,O Conto da Aia S03 E08
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16071.mp4
+#EXTINF:-1 ,O Conto da Aia S03 E09
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16072.mp4
+#EXTINF:-1 ,O Conto da Aia S03 E10
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16073.mp4
+#EXTINF:-1 ,O Conto da Aia S03 E11
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16074.mp4
+#EXTINF:-1 ,O Conto da Aia S03 E12
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16075.mp4
+#EXTINF:-1 ,O Conto da Aia S03 E13
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16076.mp4
+#EXTINF:-1 ,O Assassino de Valhalla S01 E01
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16077.mp4
+#EXTINF:-1 ,O Assassino de Valhalla S01 E02
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16078.mp4
+#EXTINF:-1 ,O Assassino de Valhalla S01 E03
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16079.mp4
+#EXTINF:-1 ,O Assassino de Valhalla S01 E04
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16080.mp4
+#EXTINF:-1 ,O Assassino de Valhalla S01 E05
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16081.mp4
+#EXTINF:-1 ,O Assassino de Valhalla S01 E06
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16082.mp4
+#EXTINF:-1 ,O Assassino de Valhalla S01 E07
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16083.mp4
+#EXTINF:-1 ,O Assassino de Valhalla S01 E08
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16084.mp4
+#EXTINF:-1 ,O Atirador S01 E01
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16085.mp4
+#EXTINF:-1 ,O Atirador S01 E02
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16086.mp4
+#EXTINF:-1 ,O Atirador S01 E03
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16087.mp4
+#EXTINF:-1 ,O Atirador S01 E04
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16088.mp4
+#EXTINF:-1 ,O Atirador S01 E05
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16089.mp4
+#EXTINF:-1 ,O Atirador S01 E06
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16090.mp4
+#EXTINF:-1 ,O Atirador S01 E07
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16091.mp4
+#EXTINF:-1 ,O Atirador S01 E08
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16092.mp4
+#EXTINF:-1 ,O Atirador S01 E09
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16093.mp4
+#EXTINF:-1 ,O Atirador S01 E10
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16094.mp4
+#EXTINF:-1 ,O Atirador S02 E01
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16095.mp4
+#EXTINF:-1 ,O Atirador S02 E02
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16096.mp4
+#EXTINF:-1 ,O Atirador S02 E03
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16097.mp4
+#EXTINF:-1 ,O Atirador S02 E04
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16098.mp4
+#EXTINF:-1 ,O Atirador S02 E05
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16099.mp4
+#EXTINF:-1 ,O Atirador S02 E06
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16100.mp4
+#EXTINF:-1 ,O Atirador S02 E07
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16101.mp4
+#EXTINF:-1 ,O Atirador S02 E08
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16102.mp4
+#EXTINF:-1 ,O Atirador S03 E01
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16103.mp4
+#EXTINF:-1 ,O Atirador S03 E02
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16104.mp4
+#EXTINF:-1 ,O Atirador S03 E03
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16105.mp4
+#EXTINF:-1 ,O Atirador S03 E04
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16106.mp4
+#EXTINF:-1 ,O Atirador S03 E05
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16107.mp4
+#EXTINF:-1 ,O Atirador S03 E06
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16108.mp4
+#EXTINF:-1 ,O Atirador S03 E07
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16109.mp4
+#EXTINF:-1 ,O Atirador S03 E08
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16110.mp4
+#EXTINF:-1 ,O Atirador S03 E09
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16111.mp4
+#EXTINF:-1 ,O Atirador S03 E10
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16112.mp4
+#EXTINF:-1 ,O Atirador S03 E11
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16113.mp4
+#EXTINF:-1 ,O Atirador S03 E12
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16114.mp4
+#EXTINF:-1 ,O Atirador S03 E13
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16115.mp4
+#EXTINF:-1 ,O Auto da Compadecida S01 E01
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16116.mp4
+#EXTINF:-1 ,O Auto da Compadecida S01 E02
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16117.mp4
+#EXTINF:-1 ,O Auto da Compadecida S01 E03
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16118.mp4
+#EXTINF:-1 ,O Auto da Compadecida S01 E04
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16119.mp4
+#EXTINF:-1 ,O Mecanismo S01 E01
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16120.mp4
+#EXTINF:-1 ,O Mecanismo S01 E02
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16121.mp4
+#EXTINF:-1 ,O Mecanismo S01 E03
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16122.mp4
+#EXTINF:-1 ,O Mecanismo S01 E04
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16123.mp4
+#EXTINF:-1 ,O Mecanismo S01 E05
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16124.mp4
+#EXTINF:-1 ,O Mecanismo S01 E06
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16125.mp4
+#EXTINF:-1 ,O Mecanismo S01 E07
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16126.mp4
+#EXTINF:-1 ,O Mecanismo S01 E08
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/16127.mp4
+#EXTINF:-1 ,The Rookie S01 E01
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18897.mp4
+#EXTINF:-1 ,The Rookie S01 E02
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18898.mp4
+#EXTINF:-1 ,The Rookie S01 E03
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18899.mp4
+#EXTINF:-1 ,The Rookie S01 E04
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18900.mp4
+#EXTINF:-1 ,The Rookie S01 E05
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18901.mp4
+#EXTINF:-1 ,The Rookie S01 E06
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18902.mp4
+#EXTINF:-1 ,The Rookie S01 E07
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18903.mp4
+#EXTINF:-1 ,The Rookie S01 E08
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18904.mp4
+#EXTINF:-1 ,The Rookie S01 E09
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18905.mp4
+#EXTINF:-1 ,The Rookie S01 E10
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18906.mp4
+#EXTINF:-1 ,The Rookie S01 E11
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18907.mp4
+#EXTINF:-1 ,The Rookie S01 E12
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18908.mp4
+#EXTINF:-1 ,The Rookie S01 E13
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18909.mp4
+#EXTINF:-1 ,The Rookie S01 E14
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18910.mp4
+#EXTINF:-1 ,The Rookie S01 E15
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18911.mp4
+#EXTINF:-1 ,The Rookie S01 E16
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18912.mp4
+#EXTINF:-1 ,The Rookie S01 E17
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18913.mp4
+#EXTINF:-1 ,The Rookie S01 E18
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18914.mp4
+#EXTINF:-1 ,The Rookie S01 E19
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18915.mp4
+#EXTINF:-1 ,The Rookie S01 E20
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18916.mp4
+#EXTINF:-1 ,The Umbrella Academy S01 E01
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18917.mp4
+#EXTINF:-1 ,The Umbrella Academy S01 E02
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18918.mp4
+#EXTINF:-1 ,The Umbrella Academy S01 E03
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18919.mp4
+#EXTINF:-1 ,The Umbrella Academy S01 E04
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18920.mp4
+#EXTINF:-1 ,The Umbrella Academy S01 E05
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18921.mp4
+#EXTINF:-1 ,The Umbrella Academy S01 E06
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18922.mp4
+#EXTINF:-1 ,The Umbrella Academy S01 E07
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18923.mp4
+#EXTINF:-1 ,The Umbrella Academy S01 E08
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18924.mp4
+#EXTINF:-1 ,The Umbrella Academy S01 E09
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18925.mp4
+#EXTINF:-1 ,The Umbrella Academy S01 E10
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/18926.mp4
+#EXTINF:-1 ,The Witcher S01 E01
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19087.mp4
+#EXTINF:-1 ,The Witcher S01 E02
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19088.mp4
+#EXTINF:-1 ,The Witcher S01 E03
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19089.mp4
+#EXTINF:-1 ,The Witcher S01 E04
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19090.mp4
+#EXTINF:-1 ,The Witcher S01 E05
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19091.mp4
+#EXTINF:-1 ,The Witcher S01 E06
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19092.mp4
+#EXTINF:-1 ,The Witcher S01 E07
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19093.mp4
+#EXTINF:-1 ,The Witcher S01 E08
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19094.mp4
+#EXTINF:-1 ,Não Fale com Estranhos S01 E01
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19095.mp4
+#EXTINF:-1 ,Não Fale com Estranhos S01 E02
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19096.mp4
+#EXTINF:-1 ,Não Fale com Estranhos S01 E03
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19097.mp4
+#EXTINF:-1 ,Não Fale com Estranhos S01 E04
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19098.mp4
+#EXTINF:-1 ,Não Fale com Estranhos S01 E05
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19099.mp4
+#EXTINF:-1 ,Não Fale com Estranhos S01 E06
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19100.mp4
+#EXTINF:-1 ,Não Fale com Estranhos S01 E07
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19101.mp4
+#EXTINF:-1 ,Não Fale com Estranhos S01 E08
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19102.mp4
+#EXTINF:-1 ,This Is Us S01 E01
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19103.mp4
+#EXTINF:-1 ,This Is Us S01 E02
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19104.mp4
+#EXTINF:-1 ,This Is Us S01 E03
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19105.mp4
+#EXTINF:-1 ,This Is Us S01 E04
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19106.mp4
+#EXTINF:-1 ,This Is Us S01 E05
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19107.mp4
+#EXTINF:-1 ,This Is Us S01 E06
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19108.mp4
+#EXTINF:-1 ,This Is Us S01 E07
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19109.mp4
+#EXTINF:-1 ,This Is Us S01 E08
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19110.mp4
+#EXTINF:-1 ,This Is Us S01 E09
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19111.mp4
+#EXTINF:-1 ,This Is Us S01 E10
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19112.mp4
+#EXTINF:-1 ,This Is Us S01 E11
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19113.mp4
+#EXTINF:-1 ,This Is Us S01 E12
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19114.mp4
+#EXTINF:-1 ,This Is Us S01 E13
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19115.mp4
+#EXTINF:-1 ,This Is Us S01 E14
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19116.mp4
+#EXTINF:-1 ,This Is Us S01 E15
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19117.mp4
+#EXTINF:-1 ,This Is Us S01 E16
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19118.mp4
+#EXTINF:-1 ,This Is Us S01 E17
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19119.mp4
+#EXTINF:-1 ,This Is Us S01 E18
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19120.mp4
+#EXTINF:-1 ,This Is Us S02 E01
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19121.mp4
+#EXTINF:-1 ,This Is Us S02 E02
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19122.mp4
+#EXTINF:-1 ,This Is Us S02 E03
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19123.mp4
+#EXTINF:-1 ,This Is Us S02 E04
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19124.mp4
+#EXTINF:-1 ,This Is Us S02 E05
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19125.mp4
+#EXTINF:-1 ,This Is Us S02 E06
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19126.mp4
+#EXTINF:-1 ,This Is Us S02 E07
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19127.mp4
+#EXTINF:-1 ,This Is Us S02 E08
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19128.mp4
+#EXTINF:-1 ,This Is Us S02 E09
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19129.mp4
+#EXTINF:-1 ,This Is Us S02 E10
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19130.mp4
+#EXTINF:-1 ,This Is Us S02 E11
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19131.mp4
+#EXTINF:-1 ,This Is Us S02 E12
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19132.mp4
+#EXTINF:-1 ,This Is Us S02 E13
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19133.mp4
+#EXTINF:-1 ,This Is Us S02 E14
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19134.mp4
+#EXTINF:-1 ,This Is Us S02 E15
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19135.mp4
+#EXTINF:-1 ,This Is Us S02 E16
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19136.mp4
+#EXTINF:-1 ,This Is Us S02 E17
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19137.mp4
+#EXTINF:-1 ,This Is Us S02 E18
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19138.mp4
+#EXTINF:-1 ,This Is Us S03 E01
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19139.mp4
+#EXTINF:-1 ,This Is Us S03 E02
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19140.mp4
+#EXTINF:-1 ,This Is Us S03 E03
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19141.mp4
+#EXTINF:-1 ,This Is Us S03 E04
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19142.mp4
+#EXTINF:-1 ,This Is Us S03 E05
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19143.mp4
+#EXTINF:-1 ,This Is Us S03 E06
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19144.mp4
+#EXTINF:-1 ,This Is Us S03 E07
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19145.mp4
+#EXTINF:-1 ,This Is Us S03 E08
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19146.mp4
+#EXTINF:-1 ,This Is Us S03 E09
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19147.mp4
+#EXTINF:-1 ,This Is Us S03 E10
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19148.mp4
+#EXTINF:-1 ,This Is Us S03 E11
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19149.mp4
+#EXTINF:-1 ,This Is Us S03 E12
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19150.mp4
+#EXTINF:-1 ,This Is Us S03 E13
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19151.mp4
+#EXTINF:-1 ,This Is Us S03 E14
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19152.mp4
+#EXTINF:-1 ,This Is Us S03 E15
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19153.mp4
+#EXTINF:-1 ,This Is Us S03 E16
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19154.mp4
+#EXTINF:-1 ,This Is Us S03 E17
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19155.mp4
+#EXTINF:-1 ,This Is Us S03 E18
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19156.mp4
+#EXTINF:-1 ,Titans S01 E01
+http://viptv2.dyndns.tv:25461/series/A81905E6C344/A81905E6C344/19157.mp4
 #EXTINF:-1 tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV ABERTA",GLOBO SP [COLOR orange](ON)[/COLOR]
 http://95.211.149.215:8081/look/globo/playlist.m3u8
 
